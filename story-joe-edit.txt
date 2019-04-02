@@ -1,1 +1,4 @@
 story joe 
+He went home!
+He went to work!
+He went to school!
